@@ -21,6 +21,7 @@ I am Mahmut Yüksel MERT, born in 1998 in Çorum/İskilip. I live in Ankara, Tur
   - **CodeIgniter** ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-orange?logo=codeigniter)
   - **Symfony** ![Symfony](https://img.shields.io/badge/-Symfony-black?logo=symfony)
   - **Adonis.JS**
+  - **Next.JS**
 
 - 🔌 **APIs**
   - **RESTful** / **SOAP** / **gRPC**
@@ -29,7 +30,7 @@ I am Mahmut Yüksel MERT, born in 1998 in Çorum/İskilip. I live in Ankara, Tur
 
 - 🛠 **Automation & Build**:
   - **gulp** / **grunt.js**
-- 🐳 **Containers**: Docker (if you use it)
+- 🐳 **Containers**: Docker
 
 ### 🛍️ **E-commerce**
 
