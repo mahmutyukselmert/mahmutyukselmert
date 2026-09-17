@@ -1,47 +1,54 @@
-# 👋 Welcome to My Profile!
+# Hi, I'm Mahmut Yüksel MERT 👋
 
-I am Mahmut Yüksel MERT, born in 1998 in Çorum/İskilip. I live in Ankara, Turkey. I work on full-stack web development and mobile applications. I have primarily worked in API development, API integration, cargo, healthcare, car rental, purchasing, and real estate sectors. I have also developed and implemented various national and local payment systems.
+I am a full-stack developer based in Ankara, Türkiye, focused on building reliable web and mobile solutions.
+My work experience covers API development/integration, payment systems, logistics, healthcare, car rental, purchasing, and real-estate platforms.
+
+## Professional Focus
+
+- Designing maintainable backend architectures
+- Building scalable REST/SOAP/gRPC integrations
+- Delivering production-ready frontend interfaces
+- Turning business requirements into practical products
+
+## Technology Stack
+
+### Backend
+- **PHP** (Laravel, CodeIgniter, Symfony)
+- **Node.js** (AdonisJS, Next.js)
+- **API Development**: RESTful, SOAP, gRPC
+
+### Frontend
+- **JavaScript**, **HTML5**, **CSS3**
+- **React**, **Vue.js**
+- **TailwindCSS**, **Bootstrap**, **Semantic UI**
+- **SCSS**, **LESS**
+
+### DevOps & Tooling
+- **Docker**
+- **Gulp**, **Grunt**
+
+## Selected Repository Work
+
+- [supplier-managment-for-woocommerce](https://github.com/mahmutyukselmert/supplier-managment-for-woocommerce)  
+  WooCommerce plugin work focused on supplier mapping and operational email grouping.
+
+- [learndash-integrity](https://github.com/mahmutyukselmert/learndash-integrity)  
+  LearnDash security-focused plugin enhancements for account/session control.
+
+- [WooStickyCart](https://github.com/mahmutyukselmert/WooStickyCart)  
+  Conversion-oriented WooCommerce UX component for product pages.
+
+- [php-linkedin-auth](https://github.com/mahmutyukselmert/php-linkedin-auth)  
+  Lightweight LinkedIn authentication and profile integration utility.
+
+## Engineering Style
+
+- Business-first and solution-oriented
+- Clean, readable, and maintainable code
+- Strong focus on integration quality and delivery discipline
+
+I also share focused experiments and practical snippets in my repositories and Gists.
 
 ---
 
-### 💻 **Frontend**
-
-- 🌐 **HTML5** / **CSS3** / **JavaScript**
-- 🎨 **Frameworks & Libraries**
-  - **ReactJs** ![React](https://img.shields.io/badge/-ReactJs-blue?logo=react)
-  - **Vue.js** ![Vue](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js)
-  - **Bootstrap** / **TailwindCSS** / **SemanticUI**
-  - **CSS Preprocessors**: **LESS**, **SCSS**
-
-### 🔗 **Backend**
-
-- 🚀 **Core Languages & Frameworks**
-  - **PHP**
-  - **Laravel** ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel)
-  - **CodeIgniter** ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-orange?logo=codeigniter)
-  - **Symfony** ![Symfony](https://img.shields.io/badge/-Symfony-black?logo=symfony)
-  - **Adonis.JS**
-  - **Next.JS**
-
-- 🔌 **APIs**
-  - **RESTful** / **SOAP** / **gRPC**
-
-### ⚙️ **DevOps & Build Tools**
-
-- 🛠 **Automation & Build**:
-  - **gulp** / **grunt.js**
-- 🐳 **Containers**: Docker
-
-### 🛍️ **E-commerce**
-
-- **WordPress** / **WooCommerce**
-
----
-
-💼 You’ll find me experimenting, exploring, and delivering quality code on my repos!
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=mrmert&color=blue) 
-
-Feel free to reach out or browse through my work. 🚀
+![Profile Views](https://komarev.com/ghpvc/?username=mahmutyukselmert&color=blue)
